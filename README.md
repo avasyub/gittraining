@@ -3,7 +3,9 @@
 ## Trainers:
 
 - Vinit
+- Avasyu
 
-## Trainees
+## Trainees:
+
  - Rishabh Bhatnagar
  - Niranjan Patil
